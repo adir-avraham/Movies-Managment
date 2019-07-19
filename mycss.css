@@ -1,0 +1,23 @@
+img {
+    width: 200px;
+    height: 150px;
+}
+
+body {
+    background-image: url("popcorn-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.cards-padding {
+
+    padding: 0.15rem 0.5rem;
+    
+
+}
+
+.button-no-paddind {
+    padding:  0.2rem;
+}
+
